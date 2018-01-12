@@ -1,4 +1,4 @@
-tell application "Opera"
+tell application "Google Chrome"
 	activate
 end tell
 
